@@ -20,5 +20,5 @@ function heroiNivel(saldoVitorias) {
     return `O Herói tem de saldo de ${saldoVitorias} está no nível de ${nivel}`;
    }
    
-   let saldoVitorias = 40; // Valor que representa as vitórias e derrotas do jogador
+   let saldoVitorias = 50; // Valor que representa as vitórias e derrotas do jogador
    console.log(heroiNivel(saldoVitorias));
